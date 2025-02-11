@@ -1,5 +1,5 @@
 MOVIES = {
-    "1234": "Titanik (1997)",
+    "1234": "Kinoni ko'rish uchun pastdagi link orqali o'ting va yuqori sifatda videoni tomosa qaling: https://t.me/dasturlar_uzb3",
     "5678": "Avatar (2009)",
     "9101": "Inception (2010)"
 }
